@@ -2,7 +2,7 @@
 
 ### Professional Key pressor with a bias towards the interactive stuff..
 
-![Jim Boy](17Cg.gif)
+![Jim Boy](/17Cg.gif)
 
 
 
