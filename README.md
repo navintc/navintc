@@ -8,7 +8,7 @@
 
 📫 How to reach me: ...
 Check me out on Linked in! 
-https://www.linkedin.com/in/navintc/ - automatic!
+https://www.linkedin.com/in/navintc/ 
 [Linkedin](https://www.linkedin.com/in/navintc/)
 
 <!--
