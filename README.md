@@ -9,7 +9,6 @@
 📫 How to reach me: ...
 Check me out on Linked in! 
 https://www.linkedin.com/in/navintc/ 
-[Linkedin](https://www.linkedin.com/in/navintc/)
 
 <!--
 **navintc/navintc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
