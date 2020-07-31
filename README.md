@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+##Professional Key pressor with a bias towards the interactive stuff..
+
+![Jim Boy](https://i.gifer.com/17Cg.gif)
+Format: ![Alt Text](url)
+
+
+📫 How to reach me: ...
+Check me out on Linked in! 
+https://www.linkedin.com/in/navintc/ - automatic!
+[Linkedin](https://www.linkedin.com/in/navintc/)
+
 <!--
 **navintc/navintc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
