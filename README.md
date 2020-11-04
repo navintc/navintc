@@ -1,6 +1,6 @@
 # Hello Audience! 👋
 
-### Professional Key pressor with a bias towards the interactive stuff..
+### Un-Professional Key pressor with a bias towards the interactive stuff..
 
 ![Jim Boy](https://github.com/navintc/navintc/blob/master/17Cg.gif)
 
