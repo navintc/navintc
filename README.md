@@ -1,8 +1,10 @@
-# Hello Audience! 👋
+# Hello Audience! 👋 ![](https://komarev.com/ghpvc/?username=navintc&color=blueviolet)
+
 
 ### A Cheif Tea Observer (CTO) with a bias towards the interactive stuff..
 
 ![Shaggy Boy](https://img.buzzfeed.com/store-an-image-prod-us-east-1/p21TsYWY2.gif)
+
 
 
 
